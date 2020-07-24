@@ -6,5 +6,5 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'mean-code-snippet-app';
+  title = 'mean-code-snippet-app-changed text';
 }
